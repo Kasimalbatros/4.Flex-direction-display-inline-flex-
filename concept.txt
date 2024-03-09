@@ -1,0 +1,4 @@
+{
+display:inline-flex;    ---> content captures the space or width is longer as per content
+flex-direction:row;
+}
